@@ -1,0 +1,1 @@
+{"requestID": "30973198af0d12d6fc494f6b514cacb9", "eventTime": "2024-01-24 04:05:45.464000", "loanID": "CAR20240124881c", "modelID": "pd-auto-online", "values": {"final_model_score": 0.03083619439768444, "internal_model_score": 0.01, "external_model_score": 0.1141809719884222}}
